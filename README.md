@@ -1,7 +1,11 @@
 # Class 10 Map Work Practice
 
 ## Play Here
-[Link to Game]((https://cbsemaps.github.io/mapwork/))
+<p align="center">
+  <a href="https://cbsemaps.github.io/mapwork/">
+    <img src="https://img.shields.io/badge/PLAY_MAP_GAME-black?style=for-the-badge&logo=target" height="70">
+  </a>
+</p>
 
 ## Features
 - covers all syllabus of class 10
