@@ -113,9 +113,9 @@ document.addEventListener("DOMContentLoaded", function () {
   // ✅ lenient tolerance
   function getTolerancePx() {
     const w = img.clientWidth || 1;
-    const base = w * 0.07;
-    const minPx = 36;
-    const maxPx = 80;
+    const base = w * 0.0105;
+    const minPx = 54;
+    const maxPx = 120;
     return Math.max(minPx, Math.min(maxPx, base));
   }
 
