@@ -2,7 +2,7 @@
 
 ## Play Here
 <a href="https://cbsemaps.github.io/mapwork/">
-  <img src="https://img.shields.io/badge/PLAY%20GAME-2k?style=for-the-badge&logo=googleplay&logoColor=white&color=2ecc71" alt="Play Game" height="60">
+  <img src="https://img.shields.io/badge/PLAY%20GAME-2k?style=for-the-badge&logo=googleplay&logoColor=white&color=2ecc71" alt="Play Game" height="150">
 </a>
 
 ## Features
