@@ -27,21 +27,28 @@ const LOCATION_DATA = {
   "Mark the largest producer state of Wheat": [222, 227],
   "Mark the largest producer state of Rice": [542, 429],
 
-  "Mark an iron ore mine which is a part of the Odisha-Jharkhand belt and contains high-grade hematite ore": [506, 473],
-  "Mark an iron ore mine that resemble the \"hump of an ox\" and produce super high-grade hematite for export": [361, 563],
-  "Mark an iron ore mine that belongs to the Durg-Bastar-Chandrapur belt, providing iron for the Bhilai Steel Plant": [369, 500],
-  "Mark an iron ore mine which has large reserves and is part of the Bellary-Chitradurga-Chikkamagaluru-Tumakuru belt": [232, 674],
-  "Mark an iron ore mine which resemble the face of a horse and located in the western ghats": [196, 721],
-  "Mark a coal ore mine which is the oldest coalfield in India and is part of the Damodar Valley belt": [540, 404],
-  "Mark a coal ore mine which is an important coalfield providing high-quality metallurgical coal for steel plants": [471, 401],
-  "Mark a coal ore mine which is a major field used for thermal power production and the second-largest reserves in India": [470, 493],
-  "mark a coal ore mine which is famous for Lignite (low-grade brown coal) used primarily for electricity generation": [305, 750],
-  "Mark an oil field which is the oldest oil field in India where oil was first discovered": [736, 300],
-  "Mark an oil field which is an important oil-producing area in the Brahmaputra valley": [709, 314],
-  "Mark an oil field which is Offshore field in the Arabian Sea and is India's largest oil-producing field": [98, 571],
-  "Mark an oil field Offshore field in the Arabian Sea; it holds massive reserves of natural gas": [91, 538],
-  "Mark an oil field which is the most important on-shore oil field of the state(Gujarat)": [126, 484],
-  "Mark an oil field which is another significant inland oil field in the western belt(Gujarat)": [139, 448],
+  "Iron Ore Mine ~ Mayurbhanj": [506, 473],
+  
+      // Iron Ore Mines
+    "Iron Ore Mine ~ Mayurbhanj": [506, 473],
+    "Iron Ore Mine ~ Bailadila": [361, 563],
+    "Iron Ore Mine ~ Durg": [369, 500],
+    "Iron Ore Mine ~ Bellary": [232, 674],
+    "Iron Ore Mine ~ Kudremukh": [196, 721],
+
+    // Coal Mines
+    "Coal Mine ~ Raniganj": [540, 404],
+    "Coal Mine ~ Jharia": [471, 401],
+    "Coal Mine ~ Talcher": [470, 493],
+    "Coal Mine ~ Neyveli": [305, 750],
+
+    // Oil Fields
+    "Oil Field ~ Digboi": [736, 300],
+    "Oil Field ~ Naharkatiya": [709, 314],
+    "Oil Field ~ Mumbai High": [98, 571],
+    "Oil Field ~ Bassien": [91, 538],
+    "Oil Field ~ Ankaleshwar": [126, 484],
+    "Oil Field ~ Kalol": [139, 448],
   "Thermal power plant ~ Namrup": [733, 292],
   "Thermal power plant ~ Ramagundam": [312, 565],
   "Thermal power plant ~ Singrauli": [395, 395],
