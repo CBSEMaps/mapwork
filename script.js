@@ -26,8 +26,6 @@ const LOCATION_DATA = {
   "Mark the largest producer state of Cotton": [193, 539], // ✅ fixed
   "Mark the largest producer state of Wheat": [222, 227],
   "Mark the largest producer state of Rice": [542, 429],
-
-  "Iron Ore Mine ~ Mayurbhanj": [506, 473],
   
       // Iron Ore Mines
     "Iron Ore Mine ~ Mayurbhanj": [506, 473],
@@ -38,7 +36,7 @@ const LOCATION_DATA = {
 
     // Coal Mines
     "Coal Mine ~ Raniganj": [540, 404],
-    "Coal Mine ~ Jharia": [471, 401],
+    "Coal Mine ~ Bokaro": [471, 401],
     "Coal Mine ~ Talcher": [470, 493],
     "Coal Mine ~ Neyveli": [305, 750],
 
