@@ -3,9 +3,10 @@
 ## Play Here
 <p align="center">
   <a href="https://cbsemaps.github.io/mapwork/">
-    <img src="https://img.shields.io/badge/PLAY_GAME-CLICK_HERE-blue?style=for-the-badge&logo=target" height="150">
+    <img src="https://img.shields.io/badge/PLAY_GAME-blue?style=for-the-badge&logo=target" height="150">
   </a>
 </p>
+
 ## Features
 - covers all syllabus of class 10
 - hold shift to view radius of your answer
