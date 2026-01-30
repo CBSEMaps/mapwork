@@ -7,7 +7,8 @@
 - covers all syllabus of class 10
 - hold shift to view radius of your answer
 - easy score based results
-- dams and coal mines are given by their features (like belts
+- dams and coal mines are given by their features (like belts,places, and size)
+- name the imp places using text UI (like INC Congress Session 1920 Dec- in Nagpur)
 
 ## Preview
 ![preview](https://github.com/CBSEMaps/mapwork/blob/main/mappreview.png?raw=true)
